@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdanko990/testing.git"
+    "url": "git+https://github.com/mdanko990/testing_selenium.git"
   },
   "dependencies": {
     "@types/jasmine": "^3.6.2"
